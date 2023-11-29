@@ -1,0 +1,14 @@
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\bin\Debug\net7.0\UniqueTry.exe
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\bin\Debug\net7.0\UniqueTry.deps.json
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\bin\Debug\net7.0\UniqueTry.runtimeconfig.json
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\bin\Debug\net7.0\UniqueTry.dll
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\bin\Debug\net7.0\UniqueTry.pdb
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.AssemblyInfoInputs.cache
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.AssemblyInfo.cs
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.dll
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\refint\UniqueTry.dll
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.pdb
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\UniqueTry.genruntimeconfig.cache
+C:\Users\Spectre\source\repos\UniqueTry\UniqueTry\obj\Debug\net7.0\ref\UniqueTry.dll
